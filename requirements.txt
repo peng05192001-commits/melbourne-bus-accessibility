@@ -1,0 +1,2 @@
+matplotlib>=3.7
+# Map generation additionally requires QGIS / PyQGIS and GDAL.
